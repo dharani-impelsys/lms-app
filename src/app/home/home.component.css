@@ -1,0 +1,30 @@
+#carouselExampleControls {
+  height: 450px;
+  overflow: hidden;
+}
+#carouselExampleControls .carousel-item {
+  height: 100%;
+}
+#carouselExampleControls img {
+  height: 100%;
+  /* object-fit: contain; */
+}
+.card-img-top {
+    height: 200px; /* or any fixed height you prefer */
+    object-fit: cover;
+}
+.trainer-profile img {
+    max-width: 50px;
+    border-radius: 50px;
+}
+.trainer-profile span {
+    padding-left: 10px;
+}
+section {
+    margin-bottom: 2rem; /* Adjust spacing as needed */
+  }
+.trainer-profile .trainer-rank {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
