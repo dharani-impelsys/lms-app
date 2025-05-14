@@ -13,6 +13,7 @@ import { LoginComponent } from './login/login.component';
 import { RegisterCourseComponent } from './register-course/register-course.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { MaterialModule } from './shared/material/material.module';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { MaterialModule } from './shared/material/material.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MaterialModule
+    MaterialModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

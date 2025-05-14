@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": "crs1",
+      "title": "Copilot",
+      "description": "GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI.",
+      "price": 100,
+      "coverImage": "copilot_card.jpg"
+    },
+    {
+      "id": "crs2",
+      "title": "Geminis",
+      "description": "Gemini is a suite of AI models developed by Google DeepMind.",
+      "price": 120,
+      "coverImage": "gemini_card.jpeg"
+    },
+    {
+      "id": "crs3",
+      "title": "Grok",
+      "description": "Grok is a generative artificial intelligence chatbot developed by xAI.",
+      "price": 180,
+      "coverImage": "grok_card.png"
+    },
+    {
+      "id": "crs4",
+      "title": "Machine Learning",
+      "description": "Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data.",
+      "price": 200,
+      "coverImage": "ml_card.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr1",
+      "name": "John Doe",
+      "email": "john@lmsapp.com"
+    },
+    {
+      "id": "usr2",
+      "name": "Jane Smith",
+      "email": "jane@lmsapp.com"
+    },
+    {
+      "id": "usr3",
+      "name": "Alice Johnson",
+      "email": "alice@lmsapp.com"
+    },
+    {
+      "id": "usr4",
+      "name": "Bob Brown",
+      "email": "bob@lmsapp.com"
+    }
+  ]
+}

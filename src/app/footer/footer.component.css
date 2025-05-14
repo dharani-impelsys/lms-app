@@ -5,8 +5,8 @@
   }
   #footer .footer-top {
     padding: 60px 0 30px 0;
-    background: grey;
-    color: white;
+    background: #eef0ef;
+    color: #37423b;
     margin-bottom: 10px;
   }
   #footer .footer-top .footer-contact {
@@ -24,12 +24,12 @@
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Raleway", sans-serif;
-    color: white;
+    color: #37423b;
   }
   #footer .footer-top h4 {
     font-size: 16px;
     font-weight: bold;
-    color: white;
+    color: #37423b;
     position: relative;
     padding-bottom: 12px;
   }
@@ -43,7 +43,7 @@
   }
   #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #5fcf80;
+    color: #37423b;
     font-size: 18px;
     line-height: 1;
   }
@@ -56,7 +56,7 @@
     padding-top: 0;
   }
   #footer .footer-top .footer-links ul a {
-    color: white;
+    color: #37423b;
     transition: 0.3s;
     display: inline-block;
     line-height: 1;

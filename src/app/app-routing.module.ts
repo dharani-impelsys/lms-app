@@ -15,7 +15,7 @@ const routes: Routes = [
   { path: 'signup', component: SignupComponent, title: 'LMS | Sign Up' },
   { path: 'login', component: LoginComponent, title: 'LMS | Login' },
   { path: '', redirectTo: '/home', pathMatch: 'full' },
-  { path: '**', component: PageNotFoundComponent }
+  { path: '**', component: PageNotFoundComponent, title: 'LMS | Page Not Found' }
 ];
 
 @NgModule({
